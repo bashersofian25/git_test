@@ -1,3 +1,3 @@
 # git_test
-My test githup repo!!
+My test github repo!!
 Hello Odin
